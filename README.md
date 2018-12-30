@@ -7,5 +7,5 @@ Um cliente meu presisava saber em seu Sistema Administrativo (*antigo feito em P
 *Achei que o protótipo ficou legal :) então estou disponibilizando aqui pra quem quiser!*
 
   - Os arquivos PHP na raiz exemplificam o sistema antigo do meu cliente.
-  - Para colocar esse prototico em seu sistema basta copiar a pasta **websocket**.
+  - Para colocar esse protótipo em seu sistema basta copiar a pasta **websocket**.
   - Para startar o websocket basta ```$ node websocket\socket.js ```.
